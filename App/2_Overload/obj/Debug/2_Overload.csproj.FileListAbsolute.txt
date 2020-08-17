@@ -1,0 +1,6 @@
+C:\Users\star0\source\repos\Homework\App\2_Overload\bin\Debug\2_Overload.exe.config
+C:\Users\star0\source\repos\Homework\App\2_Overload\bin\Debug\2_Overload.exe
+C:\Users\star0\source\repos\Homework\App\2_Overload\bin\Debug\2_Overload.pdb
+C:\Users\star0\source\repos\Homework\App\2_Overload\obj\Debug\2_Overload.csproj.CoreCompileInputs.cache
+C:\Users\star0\source\repos\Homework\App\2_Overload\obj\Debug\2_Overload.exe
+C:\Users\star0\source\repos\Homework\App\2_Overload\obj\Debug\2_Overload.pdb
