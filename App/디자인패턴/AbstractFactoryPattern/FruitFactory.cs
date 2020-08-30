@@ -8,14 +8,19 @@ namespace AbstractFactoryPattern
 {
     class FruitFactory : BeverageFactory
     {
+        private bool isCold;
+        public FruitFactory(bool iscold) 
+        {
+            isCold = iscold;
+        }
         public override Beverage createBeverage()
         {
-            throw new NotImplementedException();
+            return new CoffeeBeverage(isCold);
         }
 
         public override Order createOrder()
         {
-            return new CoffeeOrder();
+            throw new NotImplementedException();
         }
 
         public override Service createService()

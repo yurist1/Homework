@@ -8,6 +8,10 @@ namespace AbstractFactoryPattern
 {
     public abstract class Order
     {
+        public Order() 
+        {
+            comeGuest();
+        }
         public void comeGuest() 
         {
             Console.WriteLine("손님왔다");

@@ -8,19 +8,8 @@ namespace AbstractFactoryPattern
 {
     class CoffeeBeverage : Beverage
     {
-        public CoffeeBeverage(bool isCold) : base(isCold)
-        {
-            //if (isCold)
-            //{
-            //    iceBeverage();
-            //}
-            //else 
-            //{
-            //    hotBeverage();
-            //}
-
-  
-        }
+        public CoffeeBeverage(bool isCold) : base(isCold) { }
+   
 
         protected override void hotBeverage()
         {

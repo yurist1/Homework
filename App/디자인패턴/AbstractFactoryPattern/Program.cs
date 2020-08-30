@@ -10,11 +10,18 @@ namespace AbstractFactoryPattern
     {
         static void Main(string[] args)
         {
-            CoffeeFactory cf = new CoffeeFactory(true);
+            BeverageFactory[] cf = new BeverageFactory[2];
+            cf[0] =   new CoffeeFactory(true);
+            cf[1] =   new FruitFactory(true);
 
-            cf.createOrder();
-            cf.createBeverage();
-            cf.createService();
+
+            //이게 핵심!!!!!!!!!!!!!!!!
+            foreach (var item in cf)
+            {
+                item.createOrder();
+                item.createBeverage();
+                item.createService();
+            }
 
             Console.Read();
         }

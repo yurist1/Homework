@@ -1,0 +1,7 @@
+C:\Users\star0\source\repos\Homework\App\Brandi\bin\Debug\Brandi.exe.config
+C:\Users\star0\source\repos\Homework\App\Brandi\bin\Debug\Brandi.exe
+C:\Users\star0\source\repos\Homework\App\Brandi\bin\Debug\Brandi.pdb
+C:\Users\star0\source\repos\Homework\App\Brandi\obj\Debug\Brandi.csprojAssemblyReference.cache
+C:\Users\star0\source\repos\Homework\App\Brandi\obj\Debug\Brandi.csproj.CoreCompileInputs.cache
+C:\Users\star0\source\repos\Homework\App\Brandi\obj\Debug\Brandi.exe
+C:\Users\star0\source\repos\Homework\App\Brandi\obj\Debug\Brandi.pdb

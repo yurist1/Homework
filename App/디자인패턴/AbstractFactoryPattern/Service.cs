@@ -8,6 +8,11 @@ namespace AbstractFactoryPattern
 {
     class Service
     {
+        public Service() 
+        {
+            giveService();
+            checkService();
+        }
         public void giveService() 
         {
             Console.WriteLine("주문하신 음료 나왔습니다. ");
