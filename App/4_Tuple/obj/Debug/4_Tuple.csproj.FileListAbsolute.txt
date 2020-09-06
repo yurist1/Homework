@@ -1,0 +1,7 @@
+C:\Users\star0\source\repos\Homework\App\4_Tuple\bin\Debug\4_Tuple.exe.config
+C:\Users\star0\source\repos\Homework\App\4_Tuple\bin\Debug\4_Tuple.exe
+C:\Users\star0\source\repos\Homework\App\4_Tuple\bin\Debug\4_Tuple.pdb
+C:\Users\star0\source\repos\Homework\App\4_Tuple\obj\Debug\4_Tuple.csprojAssemblyReference.cache
+C:\Users\star0\source\repos\Homework\App\4_Tuple\obj\Debug\4_Tuple.csproj.CoreCompileInputs.cache
+C:\Users\star0\source\repos\Homework\App\4_Tuple\obj\Debug\4_Tuple.exe
+C:\Users\star0\source\repos\Homework\App\4_Tuple\obj\Debug\4_Tuple.pdb

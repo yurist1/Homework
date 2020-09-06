@@ -1,0 +1,7 @@
+C:\Users\star0\source\repos\Homework\App\디자인패턴\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\star0\source\repos\Homework\App\디자인패턴\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\star0\source\repos\Homework\App\디자인패턴\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\star0\source\repos\Homework\App\디자인패턴\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\star0\source\repos\Homework\App\디자인패턴\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\star0\source\repos\Homework\App\디자인패턴\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\star0\source\repos\Homework\App\디자인패턴\SingletonPattern\obj\Debug\SingletonPattern.pdb
