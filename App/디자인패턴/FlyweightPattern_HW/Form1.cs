@@ -14,20 +14,16 @@ namespace FlyweightPattern_HW
     {
         public Form1()
         {
+            var factory = new ButtonFactory();
             InitializeComponent();
+            Random r = new Random();
             for (int i = 0; i < 10; i++)
             {
-                this.Controls.Add(AddBtn(i));
+                var btn = factory.GetButtonWeight();
+                btn.Location = new Point(100, 30*i);
+                this.Controls.Add(btn);
             }
         }
 
-        private Button AddBtn(int position)
-        {
-            Button btn = new Button();
-            btn.Text = "New Button";
-            btn.Location = new Point(100, 30* position);
-
-            return btn;
-        }
     }
 }

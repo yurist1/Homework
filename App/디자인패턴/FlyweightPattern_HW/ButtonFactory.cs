@@ -20,7 +20,7 @@ namespace FlyweightPattern_HW
             _btnWeights.TryGetValue(key, out btnWeight);
             if (btnWeight == null)
             {
-                btnWeight = new DecorateButton();
+                btnWeight = new DecorateButton().Operation(key);
                 _btnWeights.Add(key, btnWeight);
             }
             return btnWeight;
@@ -29,7 +29,7 @@ namespace FlyweightPattern_HW
         private int getRandom() 
         {
             Random r = new Random();
-            int random_number = r.Next(50, 150);
+            int random_number = r.Next(0, 10000);
             return random_number;
         }
     }

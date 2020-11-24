@@ -3,11 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace FlyweightPattern_HW
 {
-    public interface IButton
+    public class IButton: Button 
     {
-        void Operation();
+        public IButton btn;
+        Button Operation(int key) 
+        {
+
+            return null;
+        }
     }
 }
