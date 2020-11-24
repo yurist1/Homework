@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ObserverPattern
 {
+
     class Patient : Subject
     {
+    private string memo;
         public string Name
         {
             get;
@@ -20,8 +22,15 @@ namespace ObserverPattern
         }
         public string Memo
         {
-            get;
-            private set;
+            get 
+            {
+                return memo;
+            }
+            private set 
+            {
+                memo = value;
+                Notify();
+            }
         }
      
         public Patient(string name, bool fav, string memo)
@@ -29,6 +38,7 @@ namespace ObserverPattern
             Name = name;
             Fav = fav;
             Memo = memo;
+            
         }
         public void Change(bool fav, string memo)
         {
