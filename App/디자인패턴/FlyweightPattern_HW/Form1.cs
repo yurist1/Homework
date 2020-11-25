@@ -20,7 +20,7 @@ namespace FlyweightPattern_HW
             for (int i = 0; i < 10; i++)
             {
                 var btn = factory.GetButtonWeight();
-                btn.Location = new Point(100, 30*i);
+                btn.Location = new Point(100, 40*i);
                 this.Controls.Add(btn);
             }
         }
