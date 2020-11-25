@@ -19,7 +19,9 @@ namespace FlyweightPattern_HW
             Random r = new Random();
             for (int i = 0; i < 10; i++)
             {
-                var btn = factory.GetButtonWeight();
+                Button btn = new Button();
+                btn.Text = factory.GetButtonWeight().Text;
+                btn.ForeColor = factory.GetButtonWeight().ForeColor;
                 btn.Location = new Point(100, 40*i);
                 this.Controls.Add(btn);
             }

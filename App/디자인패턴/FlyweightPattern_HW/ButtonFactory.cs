@@ -9,14 +9,16 @@ namespace FlyweightPattern_HW
     public class ButtonFactory
     {
         private Dictionary<int, IButton> _btnWeights;
+        private Random r;
         public ButtonFactory() 
         {
             _btnWeights = new Dictionary<int, IButton>();
+            r = new Random();
         }
         public IButton GetButtonWeight() 
         {
             IButton btnWeight;
-            int key = getRandom() % 2;
+            int key = getRandom() > 50? 0:1;
             _btnWeights.TryGetValue(key, out btnWeight);
             if (btnWeight == null)
             {
@@ -28,8 +30,7 @@ namespace FlyweightPattern_HW
 
         private int getRandom() 
         {
-            Random r = new Random();
-            int random_number = r.Next(0, 10000);
+            int random_number = r.Next(0, 100);
             return random_number;
         }
     }
