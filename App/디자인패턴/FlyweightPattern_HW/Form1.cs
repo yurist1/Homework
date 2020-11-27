@@ -23,9 +23,19 @@ namespace FlyweightPattern_HW
                 btn.Text = factory.GetButtonWeight().Text;
                 btn.ForeColor = factory.GetButtonWeight().ForeColor;
                 btn.Location = new Point(100, 40*i);
+
+                BtnTimer.Tick += BtnTimer_Tick;
+                BtnTimer.Interval = 200 * (i+1);
+                BtnTimer.Start();
+
                 this.Controls.Add(btn);
             }
         }
 
+        private void BtnTimer_Tick(object sender, EventArgs e)
+        {
+            //컨트롤 아이템별로 깜빡이게 설정
+            throw new NotImplementedException();
+        }
     }
 }

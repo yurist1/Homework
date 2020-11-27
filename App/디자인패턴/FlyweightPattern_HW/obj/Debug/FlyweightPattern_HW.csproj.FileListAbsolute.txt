@@ -14,3 +14,4 @@ C:\01.Project\잡다구리\Homework\App\디자인패턴\FlyweightPattern_HW\obj\
 C:\01.Project\잡다구리\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.csproj.GenerateResource.cache
 C:\01.Project\잡다구리\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.exe
 C:\01.Project\잡다구리\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.pdb
+C:\01.Project\잡다구리\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.Form1.resources
