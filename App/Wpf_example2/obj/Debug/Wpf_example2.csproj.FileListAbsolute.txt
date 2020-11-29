@@ -6,6 +6,7 @@ C:\Users\star0\source\repos\Homework\App\Wpf_example2\obj\Debug\MainWindow.g.cs
 C:\Users\star0\source\repos\Homework\App\Wpf_example2\obj\Debug\App.g.cs
 C:\Users\star0\source\repos\Homework\App\Wpf_example2\obj\Debug\Wpf_example2_MarkupCompile.cache
 C:\Users\star0\source\repos\Homework\App\Wpf_example2\obj\Debug\Wpf_example2_MarkupCompile.lref
+C:\Users\star0\source\repos\Homework\App\Wpf_example2\obj\Debug\Dictionary1.baml
 C:\Users\star0\source\repos\Homework\App\Wpf_example2\obj\Debug\MainWindow.baml
 C:\Users\star0\source\repos\Homework\App\Wpf_example2\obj\Debug\Wpf_example2.g.resources
 C:\Users\star0\source\repos\Homework\App\Wpf_example2\obj\Debug\Wpf_example2.Properties.Resources.resources
@@ -13,4 +14,3 @@ C:\Users\star0\source\repos\Homework\App\Wpf_example2\obj\Debug\Wpf_example2.csp
 C:\Users\star0\source\repos\Homework\App\Wpf_example2\obj\Debug\Wpf_example2.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\Wpf_example2\obj\Debug\Wpf_example2.exe
 C:\Users\star0\source\repos\Homework\App\Wpf_example2\obj\Debug\Wpf_example2.pdb
-C:\Users\star0\source\repos\Homework\App\Wpf_example2\obj\Debug\Dictionary1.baml

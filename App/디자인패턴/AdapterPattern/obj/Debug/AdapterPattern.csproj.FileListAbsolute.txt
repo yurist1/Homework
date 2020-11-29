@@ -1,7 +1,6 @@
 C:\Users\star0\source\repos\Homework\App\디자인패턴\AdapterPattern\bin\Debug\AdapterPattern.exe.config
 C:\Users\star0\source\repos\Homework\App\디자인패턴\AdapterPattern\bin\Debug\AdapterPattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\AdapterPattern\bin\Debug\AdapterPattern.pdb
-C:\Users\star0\source\repos\Homework\App\디자인패턴\AdapterPattern\obj\Debug\AdapterPattern.csprojAssemblyReference.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\AdapterPattern\obj\Debug\AdapterPattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\AdapterPattern\obj\Debug\AdapterPattern.pdb

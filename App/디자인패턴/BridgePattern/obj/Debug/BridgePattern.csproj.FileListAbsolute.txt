@@ -1,7 +1,6 @@
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BridgePattern\bin\Debug\BridgePattern.exe.config
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BridgePattern\bin\Debug\BridgePattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BridgePattern\bin\Debug\BridgePattern.pdb
-C:\Users\star0\source\repos\Homework\App\디자인패턴\BridgePattern\obj\Debug\BridgePattern.csprojAssemblyReference.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BridgePattern\obj\Debug\BridgePattern.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BridgePattern\obj\Debug\BridgePattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BridgePattern\obj\Debug\BridgePattern.pdb

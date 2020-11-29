@@ -1,6 +1,7 @@
 C:\Users\star0\source\repos\Homework\App\3_Scheduling\bin\Debug\3_Scheduling.exe.config
 C:\Users\star0\source\repos\Homework\App\3_Scheduling\bin\Debug\3_Scheduling.exe
 C:\Users\star0\source\repos\Homework\App\3_Scheduling\bin\Debug\3_Scheduling.pdb
+C:\Users\star0\source\repos\Homework\App\3_Scheduling\obj\Debug\3_Scheduling.csprojAssemblyReference.cache
 C:\Users\star0\source\repos\Homework\App\3_Scheduling\obj\Debug\3_Scheduling.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\3_Scheduling\obj\Debug\3_Scheduling.exe
 C:\Users\star0\source\repos\Homework\App\3_Scheduling\obj\Debug\3_Scheduling.pdb

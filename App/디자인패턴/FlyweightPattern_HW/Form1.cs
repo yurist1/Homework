@@ -12,6 +12,7 @@ namespace FlyweightPattern_HW
 {
     public partial class Form1 : Form
     {
+        private List<Button> BtnList = new List<Button>();
         public Form1()
         {
             var factory = new ButtonFactory();
@@ -22,20 +23,39 @@ namespace FlyweightPattern_HW
                 Button btn = new Button();
                 btn.Text = factory.GetButtonWeight().Text;
                 btn.ForeColor = factory.GetButtonWeight().ForeColor;
-                btn.Location = new Point(100, 40*i);
+                btn.Location = new Point(100, 40 * i);
 
-                BtnTimer.Tick += BtnTimer_Tick;
-                BtnTimer.Interval = 200 * (i+1);
-                BtnTimer.Start();
+                BtnList.Add(btn);
 
                 this.Controls.Add(btn);
             }
+            BtnTimer.Tick += BtnTimer_Tick;
+            BtnTimer.Interval = 1000;
+            BtnTimer.Start();
+
+
         }
 
         private void BtnTimer_Tick(object sender, EventArgs e)
         {
             //컨트롤 아이템별로 깜빡이게 설정
-            throw new NotImplementedException();
+            foreach (var item in BtnList)
+            {
+                if (item.ForeColor == Color.Red)
+                {
+                    if (item.BackColor != Color.Blue)
+                        item.BackColor = Color.Blue;
+                    else
+                        item.BackColor = Color.Green;
+                }
+                else if (item.ForeColor == Color.Blue)
+                {
+                    if (item.BackColor != Color.Yellow)
+                        item.BackColor = Color.Yellow;
+                    else
+                        item.BackColor = Color.Orange;
+                }
+            }
         }
     }
 }

@@ -1,7 +1,6 @@
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BuilderPattern\bin\Debug\BuilderPattern.exe.config
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BuilderPattern\bin\Debug\BuilderPattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BuilderPattern\bin\Debug\BuilderPattern.pdb
-C:\Users\star0\source\repos\Homework\App\디자인패턴\BuilderPattern\obj\Debug\BuilderPattern.csprojAssemblyReference.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BuilderPattern\obj\Debug\BuilderPattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BuilderPattern\obj\Debug\BuilderPattern.pdb

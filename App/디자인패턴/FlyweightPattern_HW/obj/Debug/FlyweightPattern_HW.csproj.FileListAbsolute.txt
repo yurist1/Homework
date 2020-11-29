@@ -1,11 +1,3 @@
-C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\bin\Debug\FlyweightPattern_HW.exe.config
-C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\bin\Debug\FlyweightPattern_HW.exe
-C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\bin\Debug\FlyweightPattern_HW.pdb
-C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.Properties.Resources.resources
-C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.csproj.GenerateResource.cache
-C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.csproj.CoreCompileInputs.cache
-C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.exe
-C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.pdb
 C:\01.Project\잡다구리\Homework\App\디자인패턴\FlyweightPattern_HW\bin\Debug\FlyweightPattern_HW.exe.config
 C:\01.Project\잡다구리\Homework\App\디자인패턴\FlyweightPattern_HW\bin\Debug\FlyweightPattern_HW.exe
 C:\01.Project\잡다구리\Homework\App\디자인패턴\FlyweightPattern_HW\bin\Debug\FlyweightPattern_HW.pdb
@@ -15,3 +7,13 @@ C:\01.Project\잡다구리\Homework\App\디자인패턴\FlyweightPattern_HW\obj\
 C:\01.Project\잡다구리\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.exe
 C:\01.Project\잡다구리\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.pdb
 C:\01.Project\잡다구리\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.Form1.resources
+C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\bin\Debug\FlyweightPattern_HW.exe.config
+C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\bin\Debug\FlyweightPattern_HW.exe
+C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\bin\Debug\FlyweightPattern_HW.pdb
+C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.csprojAssemblyReference.cache
+C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.Form1.resources
+C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.Properties.Resources.resources
+C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.csproj.GenerateResource.cache
+C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.csproj.CoreCompileInputs.cache
+C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.exe
+C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern_HW\obj\Debug\FlyweightPattern_HW.pdb

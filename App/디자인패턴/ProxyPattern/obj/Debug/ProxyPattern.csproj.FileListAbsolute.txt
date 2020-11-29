@@ -1,7 +1,6 @@
 C:\Users\star0\source\repos\Homework\App\디자인패턴\ProxyPattern\bin\Debug\ProxyPattern.exe.config
 C:\Users\star0\source\repos\Homework\App\디자인패턴\ProxyPattern\bin\Debug\ProxyPattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\ProxyPattern\bin\Debug\ProxyPattern.pdb
-C:\Users\star0\source\repos\Homework\App\디자인패턴\ProxyPattern\obj\Debug\ProxyPattern.csprojAssemblyReference.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\ProxyPattern\obj\Debug\ProxyPattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\ProxyPattern\obj\Debug\ProxyPattern.pdb
