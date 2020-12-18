@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern_HW", "App\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainRespPattern", "App\디자인패턴\ChainRespPattern\ChainRespPattern.csproj", "{450724A1-C07C-4A33-A745-2DBD4EFA72C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "App\디자인패턴\CommandPattern\CommandPattern.csproj", "{1B3396AC-0637-4115-8702-CA3D08B2EDB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -157,6 +159,10 @@ Global
 		{450724A1-C07C-4A33-A745-2DBD4EFA72C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{450724A1-C07C-4A33-A745-2DBD4EFA72C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{450724A1-C07C-4A33-A745-2DBD4EFA72C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B3396AC-0637-4115-8702-CA3D08B2EDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3396AC-0637-4115-8702-CA3D08B2EDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3396AC-0637-4115-8702-CA3D08B2EDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3396AC-0637-4115-8702-CA3D08B2EDB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -177,6 +183,7 @@ Global
 		{B82DCAF3-9026-4842-A8E6-A7AA1D51C41C} = {A134FECA-2F64-4074-B42F-10DCA9DBD9A9}
 		{3E7F4D1D-EB3E-437B-9A1B-136A8EB3CDFC} = {A134FECA-2F64-4074-B42F-10DCA9DBD9A9}
 		{450724A1-C07C-4A33-A745-2DBD4EFA72C4} = {A134FECA-2F64-4074-B42F-10DCA9DBD9A9}
+		{1B3396AC-0637-4115-8702-CA3D08B2EDB5} = {A134FECA-2F64-4074-B42F-10DCA9DBD9A9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A5AE095-5F35-4932-9278-7D8A20CCCFC3}
