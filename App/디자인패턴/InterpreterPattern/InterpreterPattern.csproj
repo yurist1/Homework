@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="AbstractExpression.cs" />
     <Compile Include="AndExpression.cs" />
+    <Compile Include="NLPExpression.cs" />
+    <Compile Include="NLPNonTerminalExpreesion.cs" />
+    <Compile Include="NLPTerminalExpression.cs" />
     <Compile Include="OrExpression.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -52,6 +55,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LyricText.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
