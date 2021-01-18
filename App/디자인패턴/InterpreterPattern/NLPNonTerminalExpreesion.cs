@@ -8,15 +8,31 @@ namespace InterpreterPattern
 {
     public class NLPNonTerminalExpreesion : NLPExpression
     {
-        private NLPExpression expr1;
-
-        public NLPNonTerminalExpreesion(NLPExpression expr1) 
+        string[] data;
+        public NLPNonTerminalExpreesion(string data)
         {
-            this.expr1 = expr1;
+            if (data.Contains("."))
+            {
+                this.data = data.Split('.');
+            }
+            else if (data.Contains(" "))
+            {
+                this.data = data.Split(' ');
+            }
         }
         public object interpreter(string con)
         {
-            throw new NotImplementedException();
+            foreach (var item in data)
+            {
+                if (item.Contains(" "))
+                {
+                    NLPNonTerminalExpreesion expr1 = new NLPNonTerminalExpreesion(item);
+                    return expr1.interpreter(item);
+                }
+            }
+            //터미널
+            NLPTerminalExpression expr4 = new NLPTerminalExpression("");
+            return expr4.interpreter(con);
         }
     }
 }

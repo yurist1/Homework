@@ -8,9 +8,10 @@ namespace InterpreterPattern
 {
     public class NLPTerminalExpression : NLPExpression
     {
-        public NLPTerminalExpression() 
+        private string data;
+        public NLPTerminalExpression(string data) 
         {
-        
+            this.data = data;
         }
         public object interpreter(string con)
         {

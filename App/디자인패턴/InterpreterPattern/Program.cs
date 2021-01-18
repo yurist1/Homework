@@ -28,9 +28,15 @@ namespace InterpreterPattern
 
 
             //애국가
-            var lyric = System.IO.File.ReadAllText("C:\\project\\dotNet\\Homework\\App\\디자인패턴\\InterpreterPattern\\LyricText.txt");
+            var lyric = System.IO.File.ReadAllText("C:\\01.Project\\잡다구리\\Homework\\App\\디자인패턴\\InterpreterPattern\\LyricText.txt");
 
             var data = Regex.Replace(lyric, "\\([^)]*\\)|\r\n", "");
+
+
+            NLPExpression lyric_data2 = new NLPNonTerminalExpreesion();
+            lyric_data2.interpreter(data);
+
+
             Console.ReadLine();
         }
     }
