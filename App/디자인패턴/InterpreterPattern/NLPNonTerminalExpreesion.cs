@@ -26,13 +26,18 @@ namespace InterpreterPattern
             {
                 if (item.Contains(" "))
                 {
-                    NLPNonTerminalExpreesion expr1 = new NLPNonTerminalExpreesion(item);
+                    NLPExpression expr1 = new NLPNonTerminalExpreesion(item);
                     return expr1.interpreter(item);
                 }
+                else 
+                {
+                    //터미널
+                    NLPTerminalExpression expr2 = new NLPTerminalExpression(data);
+                    return expr2.interpreter(item);
+                }
             }
-            //터미널
-            NLPTerminalExpression expr4 = new NLPTerminalExpression("");
-            return expr4.interpreter(con);
+
+            return null;
         }
     }
 }
