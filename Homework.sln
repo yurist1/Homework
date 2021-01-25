@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "App\디�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_for_blog", "App\Wpf_for_blog\Wpf_for_blog.csproj", "{C9136DE2-0937-4C2F-A456-2A90657E8079}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "﻿Mediator Pattern", "App\디자인패턴\﻿Mediator Pattern\﻿Mediator Pattern.csproj", "{90321E98-F8ED-4DA9-A9A3-CF940F0CC95B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -169,6 +171,10 @@ Global
 		{C9136DE2-0937-4C2F-A456-2A90657E8079}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9136DE2-0937-4C2F-A456-2A90657E8079}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9136DE2-0937-4C2F-A456-2A90657E8079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90321E98-F8ED-4DA9-A9A3-CF940F0CC95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90321E98-F8ED-4DA9-A9A3-CF940F0CC95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90321E98-F8ED-4DA9-A9A3-CF940F0CC95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90321E98-F8ED-4DA9-A9A3-CF940F0CC95B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -192,6 +198,7 @@ Global
 		{1B3396AC-0637-4115-8702-CA3D08B2EDB5} = {A134FECA-2F64-4074-B42F-10DCA9DBD9A9}
 		{333E775D-9955-45E8-8082-A101872ACEB8} = {A134FECA-2F64-4074-B42F-10DCA9DBD9A9}
 		{87605302-3757-4287-A924-20CC0E4FEE87} = {A134FECA-2F64-4074-B42F-10DCA9DBD9A9}
+		{90321E98-F8ED-4DA9-A9A3-CF940F0CC95B} = {A134FECA-2F64-4074-B42F-10DCA9DBD9A9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A5AE095-5F35-4932-9278-7D8A20CCCFC3}
