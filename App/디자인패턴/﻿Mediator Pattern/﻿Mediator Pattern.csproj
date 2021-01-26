@@ -45,11 +45,15 @@
   <ItemGroup>
     <Compile Include="ColleagueA.cs" />
     <Compile Include="ColleagueB.cs" />
+    <Compile Include="ConcreteFacebookGroupMediator.cs" />
     <Compile Include="ConcreteMediator.cs" />
+    <Compile Include="ConcreteUser.cs" />
+    <Compile Include="FacebookGroupMediator.cs" />
     <Compile Include="IColleague.cs" />
     <Compile Include="IMediator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
