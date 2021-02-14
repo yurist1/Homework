@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoPattern", "App\디�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "App\디자인패턴\StatePattern\StatePattern.csproj", "{BBD2623C-DBF4-4D5C-ADC7-8FB19E3E6C76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "App\디자인패턴\StrategyPattern\StrategyPattern.csproj", "{9426E4EB-6B21-4470-B7D4-A2CACAF309A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -187,6 +189,10 @@ Global
 		{BBD2623C-DBF4-4D5C-ADC7-8FB19E3E6C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBD2623C-DBF4-4D5C-ADC7-8FB19E3E6C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBD2623C-DBF4-4D5C-ADC7-8FB19E3E6C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9426E4EB-6B21-4470-B7D4-A2CACAF309A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9426E4EB-6B21-4470-B7D4-A2CACAF309A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9426E4EB-6B21-4470-B7D4-A2CACAF309A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9426E4EB-6B21-4470-B7D4-A2CACAF309A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -213,6 +219,7 @@ Global
 		{90321E98-F8ED-4DA9-A9A3-CF940F0CC95B} = {A134FECA-2F64-4074-B42F-10DCA9DBD9A9}
 		{19CF204B-5822-475A-B213-9DA04209C684} = {A134FECA-2F64-4074-B42F-10DCA9DBD9A9}
 		{BBD2623C-DBF4-4D5C-ADC7-8FB19E3E6C76} = {A134FECA-2F64-4074-B42F-10DCA9DBD9A9}
+		{9426E4EB-6B21-4470-B7D4-A2CACAF309A3} = {A134FECA-2F64-4074-B42F-10DCA9DBD9A9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A5AE095-5F35-4932-9278-7D8A20CCCFC3}
