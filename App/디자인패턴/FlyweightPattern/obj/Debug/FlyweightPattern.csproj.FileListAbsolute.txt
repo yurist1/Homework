@@ -4,3 +4,9 @@ C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern\bin\De
 C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern\obj\Debug\FlyweightPattern.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern\obj\Debug\FlyweightPattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\FlyweightPattern\obj\Debug\FlyweightPattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\FlyweightPattern\bin\Debug\FlyweightPattern.exe.config
+C:\project\dotNet\Homework\App\디자인패턴\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\FlyweightPattern\obj\Debug\FlyweightPattern.csproj.CoreCompileInputs.cache
+C:\project\dotNet\Homework\App\디자인패턴\FlyweightPattern\obj\Debug\FlyweightPattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\FlyweightPattern\obj\Debug\FlyweightPattern.pdb

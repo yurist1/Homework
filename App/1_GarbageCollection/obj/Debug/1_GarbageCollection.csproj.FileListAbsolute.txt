@@ -5,3 +5,10 @@ C:\Users\star0\source\repos\Homework\App\1_GarbageCollection\obj\Debug\1_Garbage
 C:\Users\star0\source\repos\Homework\App\1_GarbageCollection\obj\Debug\1_GarbageCollection.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\1_GarbageCollection\obj\Debug\1_GarbageCollection.exe
 C:\Users\star0\source\repos\Homework\App\1_GarbageCollection\obj\Debug\1_GarbageCollection.pdb
+C:\project\dotNet\Homework\App\1_GarbageCollection\bin\Debug\1_GarbageCollection.exe.config
+C:\project\dotNet\Homework\App\1_GarbageCollection\bin\Debug\1_GarbageCollection.exe
+C:\project\dotNet\Homework\App\1_GarbageCollection\bin\Debug\1_GarbageCollection.pdb
+C:\project\dotNet\Homework\App\1_GarbageCollection\obj\Debug\1_GarbageCollection.csprojAssemblyReference.cache
+C:\project\dotNet\Homework\App\1_GarbageCollection\obj\Debug\1_GarbageCollection.csproj.CoreCompileInputs.cache
+C:\project\dotNet\Homework\App\1_GarbageCollection\obj\Debug\1_GarbageCollection.exe
+C:\project\dotNet\Homework\App\1_GarbageCollection\obj\Debug\1_GarbageCollection.pdb

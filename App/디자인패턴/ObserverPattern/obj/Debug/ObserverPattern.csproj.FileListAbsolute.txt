@@ -4,3 +4,9 @@ C:\Users\star0\source\repos\Homework\App\디자인패턴\ObserverPattern\bin\Deb
 C:\Users\star0\source\repos\Homework\App\디자인패턴\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\ObserverPattern\obj\Debug\ObserverPattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\ObserverPattern\obj\Debug\ObserverPattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\project\dotNet\Homework\App\디자인패턴\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\project\dotNet\Homework\App\디자인패턴\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\ObserverPattern\obj\Debug\ObserverPattern.pdb

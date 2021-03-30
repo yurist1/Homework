@@ -5,3 +5,10 @@ C:\Users\star0\source\repos\Homework\App\디자인패턴\AbstractFactoryPattern\
 C:\Users\star0\source\repos\Homework\App\디자인패턴\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+C:\project\dotNet\Homework\App\디자인패턴\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojAssemblyReference.cache
+C:\project\dotNet\Homework\App\디자인패턴\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\project\dotNet\Homework\App\디자인패턴\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb

@@ -16,12 +16,42 @@ namespace Hanoi
 
 
             int num = int.Parse(args[0]);
-            for (int item = num; item > 0; item--)
+            //for (int item = num; item > 0; item--)
+            //{
+            //    stack1.Push(item);
+            //}
+
+            //MoveItem(1, 3);
+
+            double count = 1;
+            count = num == 1 ? 1 : Math.Pow(2, num) - 1;
+            Console.WriteLine($"result => {count}");
+
+            if (num <= 20)
             {
-                stack1.Push(item);
+                process(num, 1, 3, 2);
             }
 
-            MoveItem(1, 3);
+
+            Console.ReadLine();
+
+        }
+
+        private static void process(int plates, int from, int to, int mid)
+        {
+            if (plates == 1)
+            {
+                Console.WriteLine($"{from}에서 {to}로 이동");
+            }
+            else
+            {
+                // a(n-1)을 mid로 보내는 일반식
+                process(plates - 1, from, mid, to);
+                Console.WriteLine($"{from}에서 {to}로 이동");
+                //a(n-1)을 다시 목적지로 보내는 일반식
+                process(plates-1, mid, to, from);
+            }
+
         }
         private static void MoveItem(int from, int to)
         {
@@ -71,9 +101,22 @@ namespace Hanoi
                     break;
             }
 
-            if (item_from < item_to) 
+            if (item_from < item_to)
             {
                 //쌓고 
+                switch (to)
+                {
+                    case 1:
+                        stack1.Push(item_from);
+                        break;
+                    case 2:
+                        stack2.Push(item_from);
+                        break;
+                    default:
+                        stack3.Push(item_from);
+                        break;
+                }
+
             }
 
         }

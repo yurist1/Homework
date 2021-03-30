@@ -5,3 +5,10 @@ C:\Users\star0\source\repos\Homework\App\3_Scheduling\obj\Debug\3_Scheduling.csp
 C:\Users\star0\source\repos\Homework\App\3_Scheduling\obj\Debug\3_Scheduling.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\3_Scheduling\obj\Debug\3_Scheduling.exe
 C:\Users\star0\source\repos\Homework\App\3_Scheduling\obj\Debug\3_Scheduling.pdb
+C:\project\dotNet\Homework\App\3_Scheduling\bin\Debug\3_Scheduling.exe.config
+C:\project\dotNet\Homework\App\3_Scheduling\bin\Debug\3_Scheduling.exe
+C:\project\dotNet\Homework\App\3_Scheduling\bin\Debug\3_Scheduling.pdb
+C:\project\dotNet\Homework\App\3_Scheduling\obj\Debug\3_Scheduling.csprojAssemblyReference.cache
+C:\project\dotNet\Homework\App\3_Scheduling\obj\Debug\3_Scheduling.csproj.CoreCompileInputs.cache
+C:\project\dotNet\Homework\App\3_Scheduling\obj\Debug\3_Scheduling.exe
+C:\project\dotNet\Homework\App\3_Scheduling\obj\Debug\3_Scheduling.pdb

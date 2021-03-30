@@ -4,3 +4,9 @@ C:\Users\star0\source\repos\Homework\App\디자인패턴\CompositePattern\bin\De
 C:\Users\star0\source\repos\Homework\App\디자인패턴\CompositePattern\obj\Debug\CompositePattern.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\CompositePattern\obj\Debug\CompositePattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\CompositePattern\obj\Debug\CompositePattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\CompositePattern\bin\Debug\CompositePattern.exe.config
+C:\project\dotNet\Homework\App\디자인패턴\CompositePattern\bin\Debug\CompositePattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\CompositePattern\bin\Debug\CompositePattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\CompositePattern\obj\Debug\CompositePattern.csproj.CoreCompileInputs.cache
+C:\project\dotNet\Homework\App\디자인패턴\CompositePattern\obj\Debug\CompositePattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\CompositePattern\obj\Debug\CompositePattern.pdb

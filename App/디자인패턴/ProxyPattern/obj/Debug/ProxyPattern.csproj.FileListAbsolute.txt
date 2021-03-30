@@ -4,3 +4,9 @@ C:\Users\star0\source\repos\Homework\App\디자인패턴\ProxyPattern\bin\Debug\
 C:\Users\star0\source\repos\Homework\App\디자인패턴\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\ProxyPattern\obj\Debug\ProxyPattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\ProxyPattern\obj\Debug\ProxyPattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+C:\project\dotNet\Homework\App\디자인패턴\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\project\dotNet\Homework\App\디자인패턴\ProxyPattern\obj\Debug\ProxyPattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\ProxyPattern\obj\Debug\ProxyPattern.pdb

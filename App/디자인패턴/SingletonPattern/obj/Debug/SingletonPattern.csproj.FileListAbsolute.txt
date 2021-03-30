@@ -4,3 +4,9 @@ C:\Users\star0\source\repos\Homework\App\디자인패턴\SingletonPattern\bin\De
 C:\Users\star0\source\repos\Homework\App\디자인패턴\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\SingletonPattern\obj\Debug\SingletonPattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\SingletonPattern\obj\Debug\SingletonPattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\project\dotNet\Homework\App\디자인패턴\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\project\dotNet\Homework\App\디자인패턴\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\SingletonPattern\obj\Debug\SingletonPattern.pdb

@@ -4,3 +4,9 @@ C:\Users\star0\source\repos\Homework\App\디자인패턴\BuilderPattern\bin\Debu
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BuilderPattern\obj\Debug\BuilderPattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\BuilderPattern\obj\Debug\BuilderPattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\project\dotNet\Homework\App\디자인패턴\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\project\dotNet\Homework\App\디자인패턴\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\BuilderPattern\obj\Debug\BuilderPattern.pdb

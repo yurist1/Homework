@@ -5,3 +5,10 @@ C:\Users\star0\source\repos\Homework\App\알고리즘\Sudoku\obj\Debug\Sudoku.cs
 C:\Users\star0\source\repos\Homework\App\알고리즘\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\알고리즘\Sudoku\obj\Debug\Sudoku.exe
 C:\Users\star0\source\repos\Homework\App\알고리즘\Sudoku\obj\Debug\Sudoku.pdb
+C:\project\dotNet\Homework\App\알고리즘\Sudoku\bin\Debug\Sudoku.exe.config
+C:\project\dotNet\Homework\App\알고리즘\Sudoku\bin\Debug\Sudoku.exe
+C:\project\dotNet\Homework\App\알고리즘\Sudoku\bin\Debug\Sudoku.pdb
+C:\project\dotNet\Homework\App\알고리즘\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+C:\project\dotNet\Homework\App\알고리즘\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\project\dotNet\Homework\App\알고리즘\Sudoku\obj\Debug\Sudoku.exe
+C:\project\dotNet\Homework\App\알고리즘\Sudoku\obj\Debug\Sudoku.pdb

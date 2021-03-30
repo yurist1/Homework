@@ -4,3 +4,9 @@ C:\Users\star0\source\repos\Homework\App\디자인패턴\FactoryMethodPattern\bi
 C:\Users\star0\source\repos\Homework\App\디자인패턴\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.CoreCompileInputs.cache
 C:\Users\star0\source\repos\Homework\App\디자인패턴\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
 C:\Users\star0\source\repos\Homework\App\디자인패턴\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
+C:\project\dotNet\Homework\App\디자인패턴\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+C:\project\dotNet\Homework\App\디자인패턴\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\project\dotNet\Homework\App\디자인패턴\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
+C:\project\dotNet\Homework\App\디자인패턴\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
