@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "﻿Mediator Pattern", "App\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanoi", "App\알고리즘\Hanoi\Hanoi.csproj", "{571C6960-ACB8-4D17-BCD3-3BD46A8878C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tournament", "App\알고리즘\Tournament\Tournament.csproj", "{2442705F-8F71-47E5-8924-C0FE62DD0D33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -181,6 +183,10 @@ Global
 		{571C6960-ACB8-4D17-BCD3-3BD46A8878C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{571C6960-ACB8-4D17-BCD3-3BD46A8878C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{571C6960-ACB8-4D17-BCD3-3BD46A8878C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2442705F-8F71-47E5-8924-C0FE62DD0D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2442705F-8F71-47E5-8924-C0FE62DD0D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2442705F-8F71-47E5-8924-C0FE62DD0D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2442705F-8F71-47E5-8924-C0FE62DD0D33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -206,6 +212,7 @@ Global
 		{87605302-3757-4287-A924-20CC0E4FEE87} = {A134FECA-2F64-4074-B42F-10DCA9DBD9A9}
 		{90321E98-F8ED-4DA9-A9A3-CF940F0CC95B} = {A134FECA-2F64-4074-B42F-10DCA9DBD9A9}
 		{571C6960-ACB8-4D17-BCD3-3BD46A8878C2} = {CA2CB0B4-A26C-40AE-8C0A-66A8E9975C7A}
+		{2442705F-8F71-47E5-8924-C0FE62DD0D33} = {CA2CB0B4-A26C-40AE-8C0A-66A8E9975C7A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A5AE095-5F35-4932-9278-7D8A20CCCFC3}
