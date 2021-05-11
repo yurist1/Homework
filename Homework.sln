@@ -63,7 +63,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "﻿Mediator Pattern", "App\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanoi", "App\알고리즘\Hanoi\Hanoi.csproj", "{571C6960-ACB8-4D17-BCD3-3BD46A8878C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tournament", "App\알고리즘\Tournament\Tournament.csproj", "{2442705F-8F71-47E5-8924-C0FE62DD0D33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programmers", "App\알고리즘\Tournament\Programmers.csproj", "{2442705F-8F71-47E5-8924-C0FE62DD0D33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
