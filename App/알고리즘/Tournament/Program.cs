@@ -12,7 +12,7 @@ namespace Tournament
         {
             var tournament = new Tournament().solution(8, 2, 3);
             //var wordPuzzle = new WordPuzzle().solution(new string[] { "app", "ap", "p", "l", "e", "ple", "pp" }, "apple");
-            var convertnum = new ConvertNum().solution(300);
+            var convertnum = new ConvertNum().solution(9);
 
             Console.WriteLine("정답 => "+ convertnum);
             Console.ReadLine();

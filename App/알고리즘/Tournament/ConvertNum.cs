@@ -15,32 +15,29 @@ namespace Tournament
         }
         private string convertInto124(int num)
         {
+
+            string[] values = new string[3]{ "4","1","2"};
             int target = num;
             string list = "";
             while (true)
             {
+                list = values[target % 3] + list;
                 if (target <= 3)
                 {
-                    list = target + list;
                     break;
                 }
 
                 if (target % 3 == 0)
                 {
-                    list = 3 + list;
                     target = (target / 3) - 1;
                 }
                 else
                 {
-                    list = (target % 3) + list;
                     target = target / 3;
                 }
             }
 
-            list.Replace("3", "4");
-
-
-            return list.Replace("3", "4");
+            return list;
         }
     }
 }
